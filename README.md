@@ -1,5 +1,6 @@
 
 # Customer Sales Insights Dashboard
+![Data Architecture](/docs/data_architecture.png)
 
 ## Project Overview
 
