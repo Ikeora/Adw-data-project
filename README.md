@@ -20,7 +20,7 @@ This project addresses a critical business need: understanding customer demograp
 
 A robust pipeline was developed to:
 
-1. **Extract** data from the on-premises SQL database.
+1. **Extract** data from the on-premises SQL database(AdventureWorks2022).
 2. **Transform** the extracted data to meet the requirements for analysis and visualization.
 3. **Load** the transformed data into **Azure** for further processing and accessibility.
 
